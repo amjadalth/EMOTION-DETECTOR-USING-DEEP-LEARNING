@@ -8,7 +8,7 @@ The main goal this project tackles is the ability to detect both the gender and 
 - [Project Proposal](https://github.com/amjadalth/EMOTION-DETECTOR-USING-DEEP-LEARNING/blob/main/Emotions%20Detector%20Proposal.md)
 - [Project MVP](https://github.com/amjadalth/EMOTION-DETECTOR-USING-DEEP-LEARNING/blob/main/Emotions%20Detector%20MVP.md)
 - [Project Write-Up](https://github.com/amjadalth/EMOTION-DETECTOR-USING-DEEP-LEARNING/blob/main/Emotions%20Detector%20Write-Up.md.md)
-- [Project Presentation]()
+- [Project Presentation](https://github.com/amjadalth/EMOTION-DETECTOR-USING-DEEP-LEARNING/blob/main/Emotion%20Detector.pdf)
 - [**NoteBook**](https://github.com/amjadalth/EMOTION-DETECTOR-USING-DEEP-LEARNING/blob/main/Emotions%20Detector.ipynb)
 
 
